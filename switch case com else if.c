@@ -56,7 +56,7 @@ void main (){
 	printf("\n-------------------------------------\n\n");  
 		break;
 		
-		//Fim das informações do cargo
+		//Fim das informaÃ§Ãµes do cargo
 		
 		case 2: 
 		
@@ -93,7 +93,7 @@ void main (){
 	printf("\n-------------------------------------\n\n");  
 		break;
 		
-		//Fim das informações do cargo
+		//Fim das informaÃ§Ãµes do cargo
 		
 		case 3: 
 		
@@ -130,7 +130,7 @@ void main (){
 	printf("\n-------------------------------------\n\n");  
 		break;
 		
-		//Fim das informações do cargo
+		//Fim das informaÃ§Ãµes do cargo
 		
 		case 4: 
 		
@@ -167,7 +167,7 @@ void main (){
 	printf("\n-------------------------------------\n\n");  
 		break;
 		
-		//Fim das informações do cargo
+		//Fim das informaÃ§Ãµes do cargo
 		
  		case 5: 
 		
